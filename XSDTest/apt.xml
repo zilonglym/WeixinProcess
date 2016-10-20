@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<PortfolioAPT _ExternalId="Test456" PortfolioDate="2015-08-04" _CurrencyId="JPY" _MasterPortfolioId="1064698" SuppressionExpiration="2015-08-04" _Id="19566496">
+<Holding>
+<HoldingDetail _ExternalId="JP3463000004" _StorageId="45" _DetailHoldingTypeId="Q" ExternalName="TAKEDA PHARMACEUTICAL COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>Takeda Pharmaceutical Co Ltd</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3463000004</ISIN>
+<SEDOL>6870445</SEDOL>
+<AccruedInterest>7221600</AccruedInterest>
+<AccountingValue>349975600</AccountingValue>
+<BloombergTicker>4502 JP</BloombergTicker>
+<DealID>6870445</DealID>
+<MarketValueInLocalCurrency>349975600</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>57800</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3845770001" _StorageId="51" _DetailHoldingTypeId="Q" ExternalName="HOSHIZAKI ELECTRIC CO LTD COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>Hoshizaki Electric Co Ltd</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3845770001</ISIN>
+<SEDOL>B3FF8W8</SEDOL>
+<AccruedInterest>0</AccruedInterest>
+<AccountingValue>688942000</AccountingValue>
+<BloombergTicker>6465 JP</BloombergTicker>
+<DealID>B3FF8W8</DealID>
+<MarketValueInLocalCurrency>688942000</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>78200</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3783600004" _StorageId="13" _DetailHoldingTypeId="Q" ExternalName="EAST JAPAN RAILWAY CO COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>East Japan Railway Co</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3783600004</ISIN>
+<SEDOL>6298542</SEDOL>
+<AccruedInterest>3972475</AccruedInterest>
+<AccountingValue>745609475</AccountingValue>
+<BloombergTicker>9020 JP</BloombergTicker>
+<DealID>6298542</DealID>
+<MarketValueInLocalCurrency>745609475</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>64100</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3400400002" _StorageId="43" _DetailHoldingTypeId="Q" ExternalName="SCSK CORP COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>SCSK Corp</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3400400002</ISIN>
+<SEDOL>6858474</SEDOL>
+<AccruedInterest>5438300</AccruedInterest>
+<AccountingValue>600812800</AccountingValue>
+<BloombergTicker>9719 JP</BloombergTicker>
+<DealID>6858474</DealID>
+<MarketValueInLocalCurrency>600812800</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>127900</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3411000007" _StorageId="44" _DetailHoldingTypeId="Q" ExternalName="SURUGA BANK LTD (THE) COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>Suruga Bank Ltd</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3411000007</ISIN>
+<SEDOL>6864329</SEDOL>
+<AccruedInterest>1215288</AccruedInterest>
+<AccountingValue>558990088</AccountingValue>
+<BloombergTicker>8358 JP</BloombergTicker>
+<DealID>6864329</DealID>
+<MarketValueInLocalCurrency>558990088</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>232600</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3783420007" _StorageId="18" _DetailHoldingTypeId="Q" ExternalName="HIKARI TSUSHIN INC COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>Hikari Tsushin Inc</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3783420007</ISIN>
+<SEDOL>6416322</SEDOL>
+<AccruedInterest>2229975</AccruedInterest>
+<AccountingValue>483229975</AccountingValue>
+<BloombergTicker>9435 JP</BloombergTicker>
+<DealID>6416322</DealID>
+<MarketValueInLocalCurrency>483229975</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>52000</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="0000000" _StorageId="56" _DetailHoldingTypeId="Q" ExternalName="JAPANESE YEN" OriginOrU1OrU2="0">
+<SecurityName>BOC Schroder Credit Tianli Bond (LOF)</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<SEDOL>0000000</SEDOL>
+<AccruedInterest>0</AccruedInterest>
+<AccountingValue>253717901</AccountingValue>
+<DealID>JPY</DealID>
+<MarketValueInLocalCurrency>253717901</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>253717901</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3830800003" _StorageId="2" _DetailHoldingTypeId="Q" ExternalName="BRIDGESTONE CORP COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>Bridgestone Corp</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3830800003</ISIN>
+<SEDOL>6132101</SEDOL>
+<AccruedInterest>0</AccruedInterest>
+<AccountingValue>722874000</AccountingValue>
+<BloombergTicker>5108 JP</BloombergTicker>
+<DealID>6132101</DealID>
+<MarketValueInLocalCurrency>722874000</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>161500</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3170800001" _StorageId="40" _DetailHoldingTypeId="Q" ExternalName="OSG CORPORATION CO LTD COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>Osg Corp</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3170800001</ISIN>
+<SEDOL>6655620</SEDOL>
+<AccruedInterest>0</AccruedInterest>
+<AccountingValue>454305300</AccountingValue>
+<BloombergTicker>6136 JP</BloombergTicker>
+<DealID>6655620</DealID>
+<MarketValueInLocalCurrency>454305300</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>198300</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3734800000" _StorageId="38" _DetailHoldingTypeId="Q" ExternalName="NIDEC CORP COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>Nidec Corp</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3734800000</ISIN>
+<SEDOL>6640682</SEDOL>
+<AccruedInterest>2216800</AccruedInterest>
+<AccountingValue>465453300</AccountingValue>
+<BloombergTicker>6594 JP</BloombergTicker>
+<DealID>6640682</DealID>
+<MarketValueInLocalCurrency>465453300</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>50500</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3396210001" _StorageId="52" _DetailHoldingTypeId="Q" ExternalName="SKYLARK CO LTD COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>Skylark Co Ltd</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3396210001</ISIN>
+<SEDOL>BQQD167</SEDOL>
+<AccruedInterest>0</AccruedInterest>
+<AccountingValue>678180500</AccountingValue>
+<BloombergTicker>3197 JP</BloombergTicker>
+<DealID>BQQD167</DealID>
+<MarketValueInLocalCurrency>678180500</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>429500</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3898400001" _StorageId="32" _DetailHoldingTypeId="Q" ExternalName="MITSUBISHI CORP COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>Mitsubishi Corp</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3898400001</ISIN>
+<SEDOL>6596785</SEDOL>
+<AccruedInterest>7761180</AccruedInterest>
+<AccountingValue>640093680</AccountingValue>
+<BloombergTicker>8058 JP</BloombergTicker>
+<DealID>6596785</DealID>
+<MarketValueInLocalCurrency>640093680</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>285800</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3496400007" _StorageId="7" _DetailHoldingTypeId="Q" ExternalName="KDDI CORPORATION COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>KDDI Corp</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3496400007</ISIN>
+<SEDOL>6248990</SEDOL>
+<AccruedInterest>13586825</AccruedInterest>
+<AccountingValue>1213492625</AccountingValue>
+<BloombergTicker>9433 JP</BloombergTicker>
+<DealID>6248990</DealID>
+<MarketValueInLocalCurrency>1213492625</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>407300</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3229400001" _StorageId="27" _DetailHoldingTypeId="Q" ExternalName="KANSAI PAINT CO LTD COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>Kansai Paint Co Ltd</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3229400001</ISIN>
+<SEDOL>6483746</SEDOL>
+<AccruedInterest>2495175</AccruedInterest>
+<AccountingValue>512996675</AccountingValue>
+<BloombergTicker>4613 JP</BloombergTicker>
+<DealID>6483746</DealID>
+<MarketValueInLocalCurrency>512996675</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>275500</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3818800009" _StorageId="15" _DetailHoldingTypeId="Q" ExternalName="FUJITEC CO LTD COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>Fujitech Co Ltd</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3818800009</ISIN>
+<SEDOL>6356826</SEDOL>
+<AccruedInterest>3093150</AccruedInterest>
+<AccountingValue>287095050</AccountingValue>
+<BloombergTicker>6406 JP</BloombergTicker>
+<DealID>6356826</DealID>
+<MarketValueInLocalCurrency>287095050</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>216300</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3786200000" _StorageId="21" _DetailHoldingTypeId="Q" ExternalName="HITACHI METALS LTD COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>Hitachi Metals Ltd</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3786200000</ISIN>
+<SEDOL>6429201</SEDOL>
+<AccruedInterest>4928300</AccruedInterest>
+<AccountingValue>619962300</AccountingValue>
+<BloombergTicker>5486 JP</BloombergTicker>
+<DealID>6429201</DealID>
+<MarketValueInLocalCurrency>619962300</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>446000</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3902900004" _StorageId="14" _DetailHoldingTypeId="Q" ExternalName="MITSUBISHI UFJ FINANCIAL HOLDI COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>Mitsubishi UFJ Financial Group Inc</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3902900004</ISIN>
+<SEDOL>6335171</SEDOL>
+<AccruedInterest>14077530</AccruedInterest>
+<AccountingValue>1392251450</AccountingValue>
+<BloombergTicker>8306 JP</BloombergTicker>
+<DealID>6335171</DealID>
+<MarketValueInLocalCurrency>1392251450</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>1743200</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3738600000" _StorageId="35" _DetailHoldingTypeId="Q" ExternalName="NGK SPARK PLUG CO LTD COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>NGK Spark Plug Co Ltd</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3738600000</ISIN>
+<SEDOL>6619604</SEDOL>
+<AccruedInterest>1631490</AccruedInterest>
+<AccountingValue>273180890</AccountingValue>
+<BloombergTicker>5334 JP</BloombergTicker>
+<DealID>6619604</DealID>
+<MarketValueInLocalCurrency>273180890</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>91400</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3152750000" _StorageId="4" _DetailHoldingTypeId="Q" ExternalName="GMO INTERNET INC COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>GMO internet Inc</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3152750000</ISIN>
+<SEDOL>6170167</SEDOL>
+<AccruedInterest>0</AccruedInterest>
+<AccountingValue>493122600</AccountingValue>
+<BloombergTicker>9449 JP</BloombergTicker>
+<DealID>6170167</DealID>
+<MarketValueInLocalCurrency>493122600</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>286200</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3149800009" _StorageId="24" _DetailHoldingTypeId="Q" ExternalName="IRISO ELECTRONICS CO LTD COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>Iriso Electronics Co Ltd</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3149800009</ISIN>
+<SEDOL>6461128</SEDOL>
+<AccruedInterest>0</AccruedInterest>
+<AccountingValue>394830000</AccountingValue>
+<BloombergTicker>6908 JP</BloombergTicker>
+<DealID>6461128</DealID>
+<MarketValueInLocalCurrency>394830000</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>73800</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3481800005" _StorageId="9" _DetailHoldingTypeId="Q" ExternalName="DAIKIN INDUSTRIES COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>Daikin Industries Ltd</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3481800005</ISIN>
+<SEDOL>6250724</SEDOL>
+<AccruedInterest>2861100</AccruedInterest>
+<AccountingValue>430925100</AccountingValue>
+<BloombergTicker>6367 JP</BloombergTicker>
+<DealID>6250724</DealID>
+<MarketValueInLocalCurrency>430925100</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>54600</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="0000000" _StorageId="54" _DetailHoldingTypeId="Q" ExternalName="UK POUND" OriginOrU1OrU2="0">
+<SecurityName>UK POUND</SecurityName>
+<Currency _Id="GBP">British Pound Sterling</Currency>
+<SEDOL>0000000</SEDOL>
+<AccruedInterest>0</AccruedInterest>
+<AccountingValue>0</AccountingValue>
+<DealID>GBP</DealID>
+<MarketValueInLocalCurrency>0</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>0</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3610600003" _StorageId="47" _DetailHoldingTypeId="Q" ExternalName="TOYO TIRE &amp; RUBBER COMPANY COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>Toyo Tire &amp; Rubber Co Ltd</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3610600003</ISIN>
+<SEDOL>6900182</SEDOL>
+<AccruedInterest>0</AccruedInterest>
+<AccountingValue>629171700</AccountingValue>
+<BloombergTicker>5105 JP</BloombergTicker>
+<DealID>6900182</DealID>
+<MarketValueInLocalCurrency>629171700</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>245100</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3902400005" _StorageId="33" _DetailHoldingTypeId="Q" ExternalName="MITSUBISHI ELECTRIC CORP COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>Mitsubishi Electric Corp</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3902400005</ISIN>
+<SEDOL>6597045</SEDOL>
+<AccruedInterest>3763800</AccruedInterest>
+<AccountingValue>561293800</AccountingValue>
+<BloombergTicker>6503 JP</BloombergTicker>
+<DealID>6597045</DealID>
+<MarketValueInLocalCurrency>561293800</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>439000</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3435000009" _StorageId="42" _DetailHoldingTypeId="Q" ExternalName="SONY CORP COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>Sony Corp</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3435000009</ISIN>
+<SEDOL>6821506</SEDOL>
+<AccruedInterest>3469700</AccruedInterest>
+<AccountingValue>1270189700</AccountingValue>
+<BloombergTicker>6758 JP</BloombergTicker>
+<DealID>6821506</DealID>
+<MarketValueInLocalCurrency>1270189700</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>364000</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3788600009" _StorageId="19" _DetailHoldingTypeId="Q" ExternalName="HITACHI LTD COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>Hitachi Ltd</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3788600009</ISIN>
+<SEDOL>6429104</SEDOL>
+<AccruedInterest>3386400</AccruedInterest>
+<AccountingValue>419503200</AccountingValue>
+<BloombergTicker>6501 JP</BloombergTicker>
+<DealID>6429104</DealID>
+<MarketValueInLocalCurrency>419503200</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>592000</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3768600003" _StorageId="17" _DetailHoldingTypeId="Q" ExternalName="HASEKO CORPORATION COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>HASEKO Corp</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3768600003</ISIN>
+<SEDOL>6414401</SEDOL>
+<AccruedInterest>0</AccruedInterest>
+<AccountingValue>420326700</AccountingValue>
+<BloombergTicker>1808 JP</BloombergTicker>
+<DealID>6414401</DealID>
+<MarketValueInLocalCurrency>420326700</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>338700</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3801600002" _StorageId="41" _DetailHoldingTypeId="Q" ExternalName="PIGEON CORP COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>Pigeon Corp</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3801600002</ISIN>
+<SEDOL>6688080</SEDOL>
+<AccruedInterest>0</AccruedInterest>
+<AccountingValue>611626500</AccountingValue>
+<BloombergTicker>7956 JP</BloombergTicker>
+<DealID>6688080</DealID>
+<MarketValueInLocalCurrency>611626500</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>179100</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3974450003" _StorageId="1" _DetailHoldingTypeId="Q" ExternalName="RESORTTRUST INC COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>Resort Trust Inc</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3974450003</ISIN>
+<SEDOL>6044132</SEDOL>
+<AccruedInterest>3603065</AccruedInterest>
+<AccountingValue>425115065</AccountingValue>
+<BloombergTicker>4681 JP</BloombergTicker>
+<DealID>6044132</DealID>
+<MarketValueInLocalCurrency>425115065</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>135100</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3735400008" _StorageId="39" _DetailHoldingTypeId="Q" ExternalName="NIPPON TELEGRAPH AND TELEPHONE COMMON STOCK NPV(20% FO LIMIT)" OriginOrU1OrU2="0">
+<SecurityName>Nippon Telegraph &amp; Telephone Corp</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3735400008</ISIN>
+<SEDOL>6641373</SEDOL>
+<AccruedInterest>12133750</AccruedInterest>
+<AccountingValue>1154269350</AccountingValue>
+<BloombergTicker>9432 JP</BloombergTicker>
+<DealID>6641373</DealID>
+<MarketValueInLocalCurrency>1154269350</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>254600</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3967200001" _StorageId="6" _DetailHoldingTypeId="Q" ExternalName="RAKUTEN INC COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>Rakuten Inc</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3967200001</ISIN>
+<SEDOL>6229597</SEDOL>
+<AccruedInterest>0</AccruedInterest>
+<AccountingValue>848643750</AccountingValue>
+<BloombergTicker>4755 JP</BloombergTicker>
+<DealID>6229597</DealID>
+<MarketValueInLocalCurrency>848643750</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>502900</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3866800000" _StorageId="30" _DetailHoldingTypeId="Q" ExternalName="PANASONIC CORPORATION COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>Panasonic Corp</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3866800000</ISIN>
+<SEDOL>6572707</SEDOL>
+<AccruedInterest>4989500</AccruedInterest>
+<AccountingValue>756068500</AccountingValue>
+<BloombergTicker>6752 JP</BloombergTicker>
+<DealID>6572707</DealID>
+<MarketValueInLocalCurrency>756068500</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>523400</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3726800000" _StorageId="26" _DetailHoldingTypeId="Q" ExternalName="JAPAN TOBACCO INC COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>Japan Tobacco Inc</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3726800000</ISIN>
+<SEDOL>6474535</SEDOL>
+<AccruedInterest>0</AccruedInterest>
+<AccountingValue>840936700</AccountingValue>
+<BloombergTicker>2914 JP</BloombergTicker>
+<DealID>6474535</DealID>
+<MarketValueInLocalCurrency>840936700</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>199700</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3505000004" _StorageId="10" _DetailHoldingTypeId="Q" ExternalName="DAIWA HOUSE INDUSTRY CO COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>Daiwa House Industry Co Ltd</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3505000004</ISIN>
+<SEDOL>6251363</SEDOL>
+<AccruedInterest>6273000</AccruedInterest>
+<AccountingValue>646751400</AccountingValue>
+<BloombergTicker>1925 JP</BloombergTicker>
+<DealID>6251363</DealID>
+<MarketValueInLocalCurrency>646751400</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>200400</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3160740001" _StorageId="16" _DetailHoldingTypeId="Q" ExternalName="H.I.S. CO LTD COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>H.I.S. Co Ltd</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3160740001</ISIN>
+<SEDOL>6400433</SEDOL>
+<AccruedInterest>2582470</AccruedInterest>
+<AccountingValue>567411470</AccountingValue>
+<BloombergTicker>9603 JP</BloombergTicker>
+<DealID>6400433</DealID>
+<MarketValueInLocalCurrency>567411470</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>138100</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3786600001" _StorageId="20" _DetailHoldingTypeId="Q" ExternalName="HITACHI CAPITAL CORP COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>Hitachi Capital Corp</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3786600001</ISIN>
+<SEDOL>6429159</SEDOL>
+<AccruedInterest>4780400</AccruedInterest>
+<AccountingValue>357076400</AccountingValue>
+<BloombergTicker>8586 JP</BloombergTicker>
+<DealID>6429159</DealID>
+<MarketValueInLocalCurrency>357076400</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>100800</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="234064202" _StorageId="11" _DetailHoldingTypeId="Q" ExternalName="DAIWA SECURITIES GROUP COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>Daiwa Securities Group Inc</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<CUSIP>234064202</CUSIP>
+<ISIN>JP3502200003</ISIN>
+<SEDOL>6251448</SEDOL>
+<AccruedInterest>11293100</AccruedInterest>
+<AccountingValue>715249700</AccountingValue>
+<BloombergTicker>8601 JP</BloombergTicker>
+<DealID>6251448</DealID>
+<MarketValueInLocalCurrency>715249700</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>846000</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3209000003" _StorageId="5" _DetailHoldingTypeId="Q" ExternalName="CASIO COMPUTER CO COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>Casio Computer Co Ltd</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3209000003</ISIN>
+<SEDOL>6178967</SEDOL>
+<AccruedInterest>2745925</AccruedInterest>
+<AccountingValue>380009125</AccountingValue>
+<BloombergTicker>6952 JP</BloombergTicker>
+<DealID>6178967</DealID>
+<MarketValueInLocalCurrency>380009125</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>164600</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3837800006" _StorageId="23" _DetailHoldingTypeId="Q" ExternalName="HOYA CORP COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>Hoya Corp</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3837800006</ISIN>
+<SEDOL>6441506</SEDOL>
+<AccruedInterest>2677500</AccruedInterest>
+<AccountingValue>473391900</AccountingValue>
+<BloombergTicker>7741 JP</BloombergTicker>
+<DealID>6441506</DealID>
+<MarketValueInLocalCurrency>473391900</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>93600</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="0000000" _StorageId="53" _DetailHoldingTypeId="Q" ExternalName="EURO" OriginOrU1OrU2="0">
+<SecurityName>EURO</SecurityName>
+<Currency _Id="EUR">Euro</Currency>
+<SEDOL>0000000</SEDOL>
+<AccruedInterest>0</AccruedInterest>
+<AccountingValue>0</AccountingValue>
+<DealID>EUR</DealID>
+<MarketValueInLocalCurrency>0</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>0</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3485800001" _StorageId="8" _DetailHoldingTypeId="Q" ExternalName="DAICEL CORPORATION COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>Daicel Corp</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3485800001</ISIN>
+<SEDOL>6250542</SEDOL>
+<AccruedInterest>0</AccruedInterest>
+<AccountingValue>337680000</AccountingValue>
+<BloombergTicker>4202 JP</BloombergTicker>
+<DealID>6250542</DealID>
+<MarketValueInLocalCurrency>337680000</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>210000</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3756600007" _StorageId="37" _DetailHoldingTypeId="Q" ExternalName="NINTENDO CO LTD COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>Nintendo Co Ltd</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3756600007</ISIN>
+<SEDOL>6639550</SEDOL>
+<AccruedInterest>0</AccruedInterest>
+<AccountingValue>724656000</AccountingValue>
+<BloombergTicker>7974 JP</BloombergTicker>
+<DealID>6639550</DealID>
+<MarketValueInLocalCurrency>724656000</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>37200</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3854600008" _StorageId="22" _DetailHoldingTypeId="Q" ExternalName="HONDA MOTOR CO LTD COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>Honda Motor Co Ltd</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3854600008</ISIN>
+<SEDOL>6435145</SEDOL>
+<AccruedInterest>2539460</AccruedInterest>
+<AccountingValue>492267860</AccountingValue>
+<BloombergTicker>7267 JP</BloombergTicker>
+<DealID>6435145</DealID>
+<MarketValueInLocalCurrency>492267860</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>121100</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3137200006" _StorageId="25" _DetailHoldingTypeId="Q" ExternalName="ISUZU MOTORS LTD COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>Isuzu Motors Ltd</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3137200006</ISIN>
+<SEDOL>6467104</SEDOL>
+<AccruedInterest>7156320</AccruedInterest>
+<AccountingValue>674124120</AccountingValue>
+<BloombergTicker>7202 JP</BloombergTicker>
+<DealID>6467104</DealID>
+<MarketValueInLocalCurrency>674124120</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>469200</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="0000000" _StorageId="57" _DetailHoldingTypeId="Q" ExternalName="US DOLLAR" OriginOrU1OrU2="0">
+<SecurityName>IndusInd Bank Ltd</SecurityName>
+<Currency _Id="USD">US Dollar</Currency>
+<SEDOL>0000000</SEDOL>
+<AccruedInterest>0</AccruedInterest>
+<AccountingValue>119950</AccountingValue>
+<DealID>USD</DealID>
+<MarketValueInLocalCurrency>993.99</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>993.99</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3910660004" _StorageId="28" _DetailHoldingTypeId="Q" ExternalName="TOKIO MARINE HOLDINGS COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>Tokio Marine Holdings Inc</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3910660004</ISIN>
+<SEDOL>6513126</SEDOL>
+<AccruedInterest>8019113</AccruedInterest>
+<AccountingValue>759677513</AccountingValue>
+<BloombergTicker>8766 JP</BloombergTicker>
+<DealID>6513126</DealID>
+<MarketValueInLocalCurrency>759677513</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>160200</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="0000000" _StorageId="55" _DetailHoldingTypeId="Q" ExternalName="HONG KONG DOLLAR" OriginOrU1OrU2="0">
+<SecurityName>HONG KONG DOLLAR</SecurityName>
+<Currency _Id="HKD">Hong Kong Dollar</Currency>
+<SEDOL>0000000</SEDOL>
+<AccruedInterest>0</AccruedInterest>
+<AccountingValue>0</AccountingValue>
+<DealID>HKD</DealID>
+<MarketValueInLocalCurrency>0</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>0</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3399310006" _StorageId="50" _DetailHoldingTypeId="Q" ExternalName="START TODAY CO LTD COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>Start Today Co Ltd</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3399310006</ISIN>
+<SEDOL>B292RC1</SEDOL>
+<AccruedInterest>0</AccruedInterest>
+<AccountingValue>463735000</AccountingValue>
+<BloombergTicker>3092 JP</BloombergTicker>
+<DealID>B292RC1</DealID>
+<MarketValueInLocalCurrency>463735000</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>113800</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3942400007" _StorageId="49" _DetailHoldingTypeId="Q" ExternalName="ASTELLAS PHARMA INC COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>Astellas Pharma Inc</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3942400007</ISIN>
+<SEDOL>6985383</SEDOL>
+<AccruedInterest>3450320</AccruedInterest>
+<AccountingValue>363510320</AccountingValue>
+<BloombergTicker>4503 JP</BloombergTicker>
+<DealID>6985383</DealID>
+<MarketValueInLocalCurrency>363510320</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>204000</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3885400006" _StorageId="31" _DetailHoldingTypeId="Q" ExternalName="MISUMI CORPORATION COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>MISUMI Group Inc</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3885400006</ISIN>
+<SEDOL>6595179</SEDOL>
+<AccruedInterest>1794903</AccruedInterest>
+<AccountingValue>429235903</AccountingValue>
+<BloombergTicker>9962 JP</BloombergTicker>
+<DealID>6595179</DealID>
+<MarketValueInLocalCurrency>429235903</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>269000</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3756200006" _StorageId="36" _DetailHoldingTypeId="Q" ExternalName="NIFCO INC COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>NIFCO Inc</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3756200006</ISIN>
+<SEDOL>6639163</SEDOL>
+<AccruedInterest>3109725</AccruedInterest>
+<AccountingValue>343497225</AccountingValue>
+<BloombergTicker>7988 JP</BloombergTicker>
+<DealID>6639163</DealID>
+<MarketValueInLocalCurrency>343497225</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>72500</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3235700006" _StorageId="3" _DetailHoldingTypeId="Q" ExternalName="GULLIVER INTERNATIONAL CO LTD COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>Gulliver International Co Ltd</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3235700006</ISIN>
+<SEDOL>6136374</SEDOL>
+<AccruedInterest>3824363</AccruedInterest>
+<AccountingValue>632457863</AccountingValue>
+<BloombergTicker>7599 JP</BloombergTicker>
+<DealID>6136374</DealID>
+<MarketValueInLocalCurrency>632457863</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>511500</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3893200000" _StorageId="34" _DetailHoldingTypeId="Q" ExternalName="MITSUI FUDOSAN CO LTD COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>Mitsui Fudosan Co Ltd</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3893200000</ISIN>
+<SEDOL>6597603</SEDOL>
+<AccruedInterest>3522400</AccruedInterest>
+<AccountingValue>877362400</AccountingValue>
+<BloombergTicker>8801 JP</BloombergTicker>
+<DealID>6597603</DealID>
+<MarketValueInLocalCurrency>877362400</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>264000</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3152740001" _StorageId="12" _DetailHoldingTypeId="Q" ExternalName="ABC-MART INC COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>ABC-Mart Inc</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3152740001</ISIN>
+<SEDOL>6292102</SEDOL>
+<AccruedInterest>3274200</AccruedInterest>
+<AccountingValue>303185200</AccountingValue>
+<BloombergTicker>2670 JP</BloombergTicker>
+<DealID>6292102</DealID>
+<MarketValueInLocalCurrency>303185200</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>44300</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3633400001" _StorageId="48" _DetailHoldingTypeId="Q" ExternalName="TOYOTA MOTOR CORP COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>Toyota Motor Corp</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3633400001</ISIN>
+<SEDOL>6900643</SEDOL>
+<AccruedInterest>16075625</AccruedInterest>
+<AccountingValue>1497925225</AccountingValue>
+<BloombergTicker>7203 JP</BloombergTicker>
+<DealID>6900643</DealID>
+<MarketValueInLocalCurrency>1497925225</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>198400</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3573000001" _StorageId="46" _DetailHoldingTypeId="Q" ExternalName="TOKYO GAS CO LTD COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>Tokyo Gas Co Ltd</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3573000001</ISIN>
+<SEDOL>6895448</SEDOL>
+<AccruedInterest>7760500</AccruedInterest>
+<AccountingValue>754346100</AccountingValue>
+<BloombergTicker>9531 JP</BloombergTicker>
+<DealID>6895448</DealID>
+<MarketValueInLocalCurrency>754346100</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>1241000</NumberOfUnits>
+</HoldingDetail>
+<HoldingDetail _ExternalId="JP3890350006" _StorageId="29" _DetailHoldingTypeId="Q" ExternalName="SUMITOMO MITSUI FINANCIAL GRP COMMON STOCK NPV" OriginOrU1OrU2="0">
+<SecurityName>Sumitomo Mitsui Financial Group Inc</SecurityName>
+<Currency _Id="JPY">Japanese Yen</Currency>
+<ISIN>JP3890350006</ISIN>
+<SEDOL>6563024</SEDOL>
+<AccruedInterest>11564250</AccruedInterest>
+<AccountingValue>797912250</AccountingValue>
+<BloombergTicker>8316 JP</BloombergTicker>
+<DealID>6563024</DealID>
+<MarketValueInLocalCurrency>797912250</MarketValueInLocalCurrency>
+<PremiumFrequency>4</PremiumFrequency>
+<NumberOfUnits>161800</NumberOfUnits>
+</HoldingDetail>
+</Holding>
+</PortfolioAPT>

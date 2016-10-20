@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema 
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+	xmlns:mdt="MorningstarData" 
+	targetNamespace="MorningstarData" 
+	version="1.53">
+ <xsd:include schemaLocation="_MorningstarDataType.xsd"/>
+ <xsd:annotation>
+  <xsd:documentation xml:lang="en">
+   </xsd:documentation>
+ </xsd:annotation>
+ <xsd:element name="PortfolioAPT">
+ </xsd:element>
+</xsd:schema>

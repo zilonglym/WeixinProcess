@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema 
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+	xmlns:mdt="MorningstarData" 
+	targetNamespace="MorningstarData" 
+	elementFormDefault="qualified" 
+	version="1.53">
+ <xsd:include schemaLocation="_MorningstarDataType - backup.xsd"/>
+ <xsd:annotation>
+  <xsd:documentation xml:lang="en">
+    Portfolio schema for Morningstar XML data structure
+    Copyright 2015 Morningstar, Inc. All rights reserved.
+   </xsd:documentation>
+ </xsd:annotation>
+ <xsd:element name="PortfolioAPT">
+  <xsd:complexType>
+   <xsd:sequence>
+    <xsd:element name="Holding" minOccurs="0">
+     <xsd:complexType>
+      <xsd:sequence>
+       <xsd:element name="HoldingDetail" maxOccurs="unbounded">
+        <xsd:complexType>
+         <xsd:sequence>
+          <xsd:element name="Issuer" type="mdt:varchar75" minOccurs="0"/>
+          <xsd:element name="SecurityName" type="mdt:varchar200"/>
+          <xsd:element name="CommonCode" type="mdt:char9" minOccurs="0"/>
+          <xsd:element name="CostBasis" type="mdt:bigRawDecimal" minOccurs="0"/>
+          <xsd:element name="Country" type="mdt:tokenIdChar3Type" minOccurs="0"/>
+          <xsd:element name="Currency" type="mdt:tokenIdChar3Type" minOccurs="0"/>
+          <xsd:element name="CUSIP" type="mdt:char9" minOccurs="0"/>
+          <xsd:element name="ISIN" type="mdt:char12" minOccurs="0"/>
+          <xsd:element name="ISOExchangeId" type="mdt:varchar4" minOccurs="0"/>
+          <xsd:element name="QuickCode" type="mdt:char9" minOccurs="0"/>
+          <xsd:element name="SEDOL" type="mdt:char7" minOccurs="0"/>
+          <xsd:element name="Sicovam" type="mdt:char9" minOccurs="0"/>
+          <xsd:element name="Ticker" type="mdt:varchar10" minOccurs="0"/>
+          <xsd:element name="Valoren" type="mdt:char9" minOccurs="0"/>
+          <xsd:element name="WPK" type="mdt:char9" minOccurs="0"/>
+          <xsd:element name="AccruedInterest" type="mdt:bigRawDecimal" minOccurs="0"/>
+          <xsd:element name="AccountingValue" type="xsd:long" minOccurs="0"/>
+          <xsd:element name="AssetType" type="mdt:varchar75" minOccurs="0"/>
+          <xsd:element name="AttachmentPercent" type="mdt:nonNegativeSmallRawDecimal" minOccurs="0"/>
+          <xsd:element name="DetachmentPercent" type="mdt:nonNegativeSmallRawDecimal" minOccurs="0"/>
+          <xsd:element name="BarrierLevel" type="mdt:nonNegativeSmallRawDecimal" minOccurs="0"/>
+          <xsd:element name="BarrierRebate" type="mdt:bigRawDecimal" minOccurs="0"/>
+          <xsd:element name="BarrierType" type="mdt:varchar75" minOccurs="0"/>
+          <xsd:element name="BloombergTicker" type="mdt:varchar25" minOccurs="0"/>
+          <xsd:element name="BondFactor" type="mdt:nonNegativeSmallRawDecimal" minOccurs="0"/>
+          <xsd:element name="BuyOrSell" type="mdt:varchar10" minOccurs="0"/>
+          <xsd:element name="Callable" type="mdt:varchar10" minOccurs="0"/>
+          <xsd:element name="CapStrike" type="mdt:nonNegativeSmallRawDecimal" minOccurs="0"/>
+          <xsd:element name="CapFloorType" type="mdt:varchar10" minOccurs="0"/>
+          <xsd:element name="CNPJ" type="mdt:varchar25" minOccurs="0"/>
+          <xsd:element name="CollateralCounterpartyLEI" type="mdt:varchar25" minOccurs="0"/>
+          <xsd:element name="CollateralIndicator" type="xsd:boolean" minOccurs="0"/>
+          <xsd:element name="ContractMultiplier" type="mdt:nonNegativeSmallRawDecimal" minOccurs="0"/>
+          <xsd:element name="DayCount" type="mdt:varchar25" minOccurs="0"/>
+          <xsd:element name="DealID" type="mdt:varchar100" minOccurs="0"/>
+          <xsd:element name="EffectiveDate" type="xsd:date" minOccurs="0"/>
+          <xsd:element name="ExchangeNotional" type="mdt:varchar25" minOccurs="0"/>
+          <xsd:element name="ExerciseType" type="mdt:varchar25" minOccurs="0"/>
+          <xsd:element name="FinancingRate" type="mdt:nonNegativeSmallDecimal" minOccurs="0"/>
+          <xsd:element name="FixedIncomePriceType" type="mdt:varchar25" minOccurs="0"/>
+          <xsd:element name="FirstAccrualDate" type="xsd:date" minOccurs="0"/>
+          <xsd:element name="FirstCouponDate" type="xsd:date" minOccurs="0"/>
+          <xsd:element name="FXPairQuote" type="mdt:varchar75" minOccurs="0"/>
+          <xsd:element name="Guarantor" type="mdt:varchar75" minOccurs="0"/>
+          <xsd:element name="GuarantorLEI" type="mdt:varchar25" minOccurs="0"/>
+          <xsd:element name="InitialNotional" type="mdt:nonNegativeBigRawDecimal" minOccurs="0"/>
+          <xsd:element name="IssuerLEI" type="mdt:varchar25" minOccurs="0"/>
+          <xsd:element name="JSE" type="mdt:varchar10" minOccurs="0"/>
+          <xsd:element name="KRCode" type="mdt:char12" minOccurs="0"/>
+          <xsd:element name="MarketValueInLocalCurrency" type="mdt:bigRawDecimal" minOccurs="0"/>
+          <xsd:element name="MarketREDcode" type="mdt:varchar25" minOccurs="0"/>
+          <xsd:element name="MaturityDate" type="xsd:date" minOccurs="0"/>
+          <xsd:element name="Nemotecnico" type="mdt:varchar25" minOccurs="0"/>
+          <xsd:element name="NextCallDate" type="xsd:date" minOccurs="0"/>
+          <xsd:element name="NotionalValue" type="mdt:bigRawDecimal" minOccurs="0"/>
+          <xsd:element name="NotionalValueInLocalCurrency" type="mdt:bigRawDecimal" minOccurs="0"/>
+          <xsd:element name="NotionalUnits" type="mdt:nonNegativeBigRawDecimal" minOccurs="0"/>
+          <xsd:element name="OptionType" type="mdt:varchar25" minOccurs="0"/>
+          <xsd:element name="OSICode" type="mdt:varchar25" minOccurs="0"/>
+          <xsd:element name="PaymentFrequency" type="xsd:byte" minOccurs="0"/>
+          <xsd:element name="PaymentType" type="mdt:varchar25" minOccurs="0"/>
+          <xsd:element name="Premium" type="mdt:bigDecimal" minOccurs="0"/>
+          <xsd:element name="PremiumFrequency" type="xsd:unsignedShort" minOccurs="0"/>
+          <xsd:element name="PriceInLocalCurrency" type="mdt:nonNegativeBigRawDecimal" minOccurs="0"/>
+          <xsd:element name="Rate" type="mdt:smallRawDecimal" minOccurs="0"/>
+          <xsd:element name="ReferenceRate" type="xsd:string" minOccurs="0"/>
+          <xsd:element name="ResetFrequency" type="xsd:unsignedShort" minOccurs="0"/>
+          <xsd:element name="SeniorityLevel" type="mdt:varchar25" minOccurs="0"/>
+          <xsd:element name="SettingType" type="mdt:varchar25" minOccurs="0"/>
+          <xsd:element name="SettlementCurrency" type="mdt:char3" minOccurs="0"/>
+          <xsd:element name="SettlementType" type="mdt:varchar25" minOccurs="0"/>
+          <xsd:element name="SITCACode" type="mdt:varchar10" minOccurs="0"/>
+          <xsd:element name="Spread" type="mdt:bigRawDecimal" minOccurs="0"/>
+          <xsd:element name="Strike" type="mdt:nonNegativeBigRawDecimal" minOccurs="0"/>
+          <xsd:element name="StrikeDate" type="xsd:date" minOccurs="0"/>
+          <xsd:element name="StrikeType" type="mdt:varchar25" minOccurs="0"/>
+          <xsd:element name="SurveyedConvexity" type="mdt:smallRawDecimal" minOccurs="0"/>
+          <xsd:element name="SurveyedCreditDuration" type="mdt:smallRawDecimal" minOccurs="0"/>
+          <xsd:element name="SurveyedDelta" type="mdt:smallRawDecimal" minOccurs="0"/>
+          <xsd:element name="SurveyedModifiedDuration" type="mdt:smallRawDecimal" minOccurs="0"/>
+          <xsd:element name="SurveyedEffectiveDuration" type="mdt:smallRawDecimal" minOccurs="0"/>
+          <xsd:element name="SurveyedExposure" type="mdt:bigDecimal" minOccurs="0"/>
+          <xsd:element name="SurveyedGamma" type="mdt:smallRawDecimal" minOccurs="0"/>
+          <xsd:element name="SurveyedRho" type="mdt:smallRawDecimal" minOccurs="0"/>
+          <xsd:element name="SurveyedTheta" type="mdt:smallRawDecimal" minOccurs="0"/>
+          <xsd:element name="SurveyedVega" type="mdt:smallRawDecimal" minOccurs="0"/>
+          <xsd:element name="SurveyedConvertOptionPremium" type="mdt:smallRawDecimal" minOccurs="0"/>
+          <xsd:element name="SurveyedModifiedDurationToNextExerciseDate" type="mdt:smallRawDecimal" minOccurs="0"/>
+          <xsd:element name="DeltaAdjustedExposure" type="mdt:bigRawDecimal" minOccurs="0"/>
+          <xsd:element name="TimeLag" type="mdt:varchar75" minOccurs="0"/>
+          <xsd:element name="TrancheType" type="mdt:varchar75" minOccurs="0"/>
+          <xsd:element name="CostBasisInLocalCurrency" type="mdt:bigRawDecimal" minOccurs="0"/>
+          <xsd:element name="NumberOfUnits" type="mdt:bigRawDecimal" minOccurs="0"/>
+          <xsd:element name="VarianceDividendAdjusted" type="mdt:char1" minOccurs="0"/>
+          <xsd:element name="TriBondFloor" type="mdt:bigRawDecimal" minOccurs="0"/>
+          <xsd:element name="TriGamma" type="mdt:bigDecimal" minOccurs="0"/>
+          <xsd:element name="TriHedgeStrategy" type="mdt:varchar25" minOccurs="0"/>
+          <xsd:element name="TriIdInstrumentLeg" type="xsd:string" minOccurs="0"/>
+          <xsd:element name="TriLiquidity" type="mdt:bigDecimal" minOccurs="0"/>
+          <xsd:element name="TriMarketExposureAmountInQotationCurrency" type="mdt:bigDecimal" minOccurs="0"/>
+          <xsd:element name="TriMarketExposureFor3rdCurrencyInWeightOverNAV" type="mdt:bigDecimal" minOccurs="0"/>
+          <xsd:element name="TriMarketExposureInWeight" type="mdt:bigDecimal" minOccurs="0"/>
+          <xsd:element name="TriMktEx3" type="mdt:bigRawDecimal" minOccurs="0"/>
+          <xsd:element name="TriNominalAMT" type="mdt:bigDecimal" minOccurs="0"/>
+          <xsd:element name="TriOptionPremium" type="mdt:bigRawDecimal" minOccurs="0"/>
+          <xsd:element name="TriQuantity" type="mdt:bigDecimal" minOccurs="0"/>
+         </xsd:sequence>
+         <xsd:attribute name="_StorageId" type="xsd:unsignedInt"/>
+         <xsd:attribute name="Issuer" type="mdt:varchar75"/>
+         <xsd:attribute name="_Id" type="mdt:char10"/>
+         <xsd:attribute name="_DetailHoldingTypeId" type="mdt:varchar2"/>
+         <xsd:attribute name="_ExternalId" type="mdt:varchar25"/>
+         <xsd:attribute name="ExternalName" type="mdt:varchar200"/>
+         <xsd:attribute name="OriginOrU1OrU2" type="xsd:byte"/>
+        </xsd:complexType>
+       </xsd:element>
+      </xsd:sequence>
+     </xsd:complexType>
+    </xsd:element>
+   </xsd:sequence>
+   <xsd:attribute name="_Id" type="xsd:positiveInteger" use="required"/>
+   <xsd:attribute name="_MasterPortfolioId" type="xsd:positiveInteger" use="required"/>
+   <xsd:attribute name="PortfolioDate" type="xsd:date" use="required"/>
+   <xsd:attribute name="SuppressionExpiration" type="xsd:date"/>
+   <xsd:attribute name="IssuerLEI" type="mdt:varchar25"/>
+   <xsd:attribute name="_CurrencyId" type="mdt:char3" use="optional"/>
+   <xsd:attribute name="_ExternalId" type="mdt:varchar75"/>
+  </xsd:complexType>
+ </xsd:element>
+</xsd:schema>
