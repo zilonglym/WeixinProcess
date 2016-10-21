@@ -65,7 +65,8 @@ public class WechatServlet extends HttpServlet {
         	System.out.println("Token验证成功");
             //正常的微信处理流程
         	System.out.println("读取接收到的xml消息:"+xml);
-            result = new WechatProcess().processWechatMag(xml);  
+        	String projectPath = request.getSession().getServletContext().getRealPath("");
+            result = new WechatProcess().processWechatMag(xml,projectPath);  
         }  
   
         try {  
