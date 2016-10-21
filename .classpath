@@ -16,5 +16,9 @@
 	<classpathentry kind="lib" path="D:/04-app/apache-tomcat-8.0.37-windows-x64/apache-tomcat-8.0.37/lib/servlet-api.jar"/>
 	<classpathentry kind="lib" path="lib/dom4j-1.6.1-sources.jar"/>
 	<classpathentry kind="lib" path="lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/jdom-2.0.5.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="lib/json-20080701.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
